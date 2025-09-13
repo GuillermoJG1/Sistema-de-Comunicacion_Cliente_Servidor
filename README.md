@@ -2,6 +2,11 @@
 
 Sistema de mensajería en tiempo real que implementa una arquitectura cliente-servidor robusta para comunicación multiusuario.
 
+#Integrantes
+Lara López Lisseth Yaret
+Martinez Gonzalez Guillermo Josue
+Quintero Manríquez Alejandra
+
 ## Tabla de Contenidos
 
 - [Descripción General](#descripción-general)
